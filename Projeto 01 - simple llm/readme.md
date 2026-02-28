@@ -56,29 +56,16 @@ Gerar relatório HTML
 
 ---
 
-## 🚀 Como instalar
+Se quiser deixar ainda mais profissional:
+
+## 🚀 Instalação
+
+Crie o ambiente virtual e instale as dependências:
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-
-
-
-
-
-
-## Como instalar
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-Para executar: 
-
-```bash
-python main.py
 
 
 
