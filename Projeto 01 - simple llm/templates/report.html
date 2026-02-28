@@ -1,0 +1,15 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Relatório de Editais IA</title>
+</head>
+<body>
+    <h1>Editais Encontrados</h1>
+    {% for e in editais %}
+        <hr>
+        <h2>{{ e.title }}</h2>
+        <p><strong>Link:</strong> {{ e.link }}</p>
+        <p>{{ e.summary }}</p>
+    {% endfor %}
+</body>
+</html>
