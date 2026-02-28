@@ -56,8 +56,6 @@ Gerar relatório HTML
 
 ---
 
-Se quiser deixar ainda mais profissional:
-
 ## 🚀 Instalação
 
 Crie o ambiente virtual e instale as dependências:
