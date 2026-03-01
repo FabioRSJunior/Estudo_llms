@@ -11,7 +11,7 @@ Projeto que automatiza a busca de editais relacionados a Inteligência Artificia
 ![Ollama](https://img.shields.io/badge/LLM-Ollama-black)
 ![BeautifulSoup](https://img.shields.io/badge/Scraping-BeautifulSoup-green)
 ![Jinja2](https://img.shields.io/badge/Template-Jinja2-red)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
+%![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
 
 # Agente de Busca de Editais
 
