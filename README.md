@@ -23,7 +23,7 @@ Realiza scraping de páginas, utiliza LLM local via Ollama para extrair e resumi
 <!-- MODELO PARA NOVOS PROJETOS -->
 
 ### 📌 Projeto XX — Analisador de PDFs com IA
-🔗 [Acessar projeto]([link_aqui](https://github.com/FabioRSJunior/Estudo_llms/tree/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm))
+🔗 [Acessar projeto]([https://github.com/FabioRSJunior/Estudo_llms/tree/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm)
 
 O projeto permite gerar resumos, extrações estruturadas ou qualquer saída dinâmica orientada por prompt, explorando integração entre backend web, processamento de documentos e modelos de linguagem.
 
@@ -35,7 +35,8 @@ O projeto permite gerar resumos, extrações estruturadas ou qualquer saída din
 - Persistência de dados com SQLite
 - Desenvolvimento de aplicação web com Flask
 - Separação modular de responsabilidades (arquitetura em camadas)
-- 
+
+ 
 ---
 
 ## 🎯 Objetivo do Repositório
