@@ -41,8 +41,6 @@ The common interests between Fabio and Zyphor are
 
 Isso demonstra que o agente conseguiu interpretar a pergunta, identificar onde a informação estava armazenada e consultar o banco de dados corretamente.
 
----
-
 <!--
 ## ⚙️ Arquitetura
 
