@@ -29,25 +29,37 @@ O usuário pode selecionar o provedor diretamente na interface.
 ---
 ## 🖼️ Interface
 
-### 📤 Tela de Submissão
-
-- Prompt editável  
-- Seleção do provedor (Groq ou Ollama)  
-- Upload múltiplo de PDFs  
-
-![Tela Submit](https://raw.githubusercontent.com/FabioRSJunior/Estudo_llms/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/submit.png)
-
----
-
-### 📊 Tela de Visualização
-
-- Lista de PDFs processados  
-- Prompt utilizado  
-- JSON formatado  
-- Data de processamento  
-
-![Tela Lista](https://raw.githubusercontent.com/FabioRSJunior/Estudo_llms/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/list.png)
-
+<table width="100%">
+  <tr>
+    <th width="50%"><h3>📤 Tela de Submissão</h3></th>
+    <th width="50%"><h3>📊 Tela de Visualização</h3></th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>Prompt editável</li>
+        <li>Seleção do provedor (Groq ou Ollama)</li>
+        <li>Upload múltiplo de PDFs</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Lista de PDFs processados</li>
+        <li>Prompt utilizado</li>
+        <li>JSON formatado</li>
+        <li>Data de processamento</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/FabioRSJunior/Estudo_llms/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/submit.png" alt="Tela Submit" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/FabioRSJunior/Estudo_llms/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/list.png" alt="Tela Lista" width="100%">
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📂 Estrutura
