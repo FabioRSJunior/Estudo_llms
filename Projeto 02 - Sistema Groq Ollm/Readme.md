@@ -27,7 +27,6 @@ A aplicação permite ler o PDF enviado e gerar resumo, extração estruturada o
 O usuário pode selecionar o provedor diretamente na interface.
 
 ---
-
 ## 🖼️ Interface
 
 ### 📤 Tela de Submissão
@@ -36,7 +35,7 @@ O usuário pode selecionar o provedor diretamente na interface.
 - Seleção do provedor (Groq ou Ollama)  
 - Upload múltiplo de PDFs  
 
-![Tela Submit]([images/tela_submit.png](https://github.com/FabioRSJunior/Estudo_llms/blob/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/submit.png))
+![Tela Submit](https://raw.githubusercontent.com/FabioRSJunior/Estudo_llms/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/submit.png)
 
 ---
 
@@ -47,7 +46,7 @@ O usuário pode selecionar o provedor diretamente na interface.
 - JSON formatado  
 - Data de processamento  
 
-![Tela Lista]([images/tela_lista.png](https://github.com/FabioRSJunior/Estudo_llms/blob/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/list.png ))
+![Tela Lista](https://raw.githubusercontent.com/FabioRSJunior/Estudo_llms/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/list.png)
 
 ---
 
