@@ -1,9 +1,3 @@
-## 📌 Analisador de PDFs com IA
-
-Aplicação web **open source** que permite upload de múltiplos PDFs, envio de prompt personalizado e processamento via LLM (local ou cloud), armazenando resultados em SQLite e exibindo tudo em uma interface web simples e organizada.
-
-A aplicação permite ler o PDF enviado e gerar resumo, extração estruturada ou qualquer saída dinâmica em JSON com base no prompt escolhido pelo usuário.
-
 ---
 
 # 🤖 PDF Analyzer com LLM
@@ -17,25 +11,13 @@ A aplicação permite ler o PDF enviado e gerar resumo, extração estruturada o
 
 ---
 
-# 📄 Leitor Inteligente de PDFs
 
-Infraestrutura:
+## 📌 Analisador de PDFs com IA
 
-Upload PDF(s)  
-   ↓  
-Extração de texto  
-   ↓  
-Chunking  
-   ↓  
-LLM (Groq ou Ollama)  
-   ↓  
-JSON estruturado  
-   ↓  
-SQLite  
-   ↓  
-Dashboard Flask  
+Aplicação web **open source** que permite upload de múltiplos PDFs, envio de prompt personalizado e processamento via LLM (local ou cloud), armazenando resultados em SQLite e exibindo tudo em uma interface web simples e organizada.
 
----
+A aplicação permite ler o PDF enviado e gerar resumo, extração estruturada ou qualquer saída dinâmica em JSON com base no prompt escolhido pelo usuário.
+
 
 ## 🧠 Provedores de LLM
 
@@ -54,7 +36,7 @@ O usuário pode selecionar o provedor diretamente na interface.
 - Seleção do provedor (Groq ou Ollama)  
 - Upload múltiplo de PDFs  
 
-![Tela Submit](images/tela_submit.png)
+![Tela Submit]([images/tela_submit.png](https://github.com/FabioRSJunior/Estudo_llms/blob/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/submit.png))
 
 ---
 
@@ -65,7 +47,7 @@ O usuário pode selecionar o provedor diretamente na interface.
 - JSON formatado  
 - Data de processamento  
 
-![Tela Lista](images/tela_lista.png)
+![Tela Lista]([images/tela_lista.png](https://github.com/FabioRSJunior/Estudo_llms/blob/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/list.png ))
 
 ---
 
@@ -79,16 +61,4 @@ O usuário pode selecionar o provedor diretamente na interface.
 - `templates/` → Interfaces HTML.
 
 ---
-
-## 🚀 Como instalar
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-python app.py
-
-http://127.0.0.1:5000 
-´´´
 
