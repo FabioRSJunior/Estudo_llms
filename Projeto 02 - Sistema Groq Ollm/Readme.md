@@ -53,10 +53,10 @@ O usuário pode selecionar o provedor diretamente na interface.
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/FabioRSJunior/Estudo_llms/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/submit.png" alt="Tela Submit" width="100%">
+      <img src="https://github.com/FabioRSJunior/Estudo_llms/blob/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/submit.png" alt="Tela Submit" width="100%">
     </td>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/FabioRSJunior/Estudo_llms/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/list.png" alt="Tela Lista" width="100%">
+      <img src="https://github.com/FabioRSJunior/Estudo_llms/blob/main/Projeto%2002%20-%20Sistema%20Groq%20Ollm/Images/list.png" alt="Tela Lista" width="100%">
     </td>
   </tr>
 </table>
